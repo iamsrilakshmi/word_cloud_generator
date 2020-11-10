@@ -1,0 +1,9 @@
+numpy
+requests
+PIL
+wordcloud
+ipywidgets
+bs4
+matplotlib
+voila
+voila-material
