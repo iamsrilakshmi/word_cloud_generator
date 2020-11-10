@@ -1,6 +1,6 @@
 numpy
 requests
-PIL
+Pillow
 wordcloud
 ipywidgets
 bs4
