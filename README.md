@@ -1,2 +1,6 @@
-# word_cloud_generator
-NLP Application
+# Word Cloud Generator
+---
+
+Paste the url of any website & this app will generat the word cloud for you.
+
+
