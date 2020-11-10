@@ -6,4 +6,3 @@ ipywidgets
 bs4
 matplotlib
 voila
-voila-material
